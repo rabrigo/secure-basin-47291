@@ -1,4 +1,4 @@
-### Text Editor PWA
+# Text Editor PWA
 
 <details>
 <summary>Table of Contents</summary>
