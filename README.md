@@ -17,10 +17,18 @@ Text Editor app that you can install onto your own local machine.
 
 ## Built With
 
-Manifest. Webpack. IndexDB.
+IndexDB. Manifest. Webpack. Babel. Workbox. CSS loader. NodeJS.
 
 ## Installation
 
+Git clone onto your local machine. Open up the root folder in your command line interface and run npm i. From there run npm start:dev.
+
+Or visit https://secure-basin-47291.herokuapp.com/ and click on the install button.
+
 ## Usage
 
+Type stuff.
+
 ## Future Updates
+
+This was a class homework assignment with starter code in it. There were certain components included that I did not use. Would love to explore that one day.
