@@ -18,3 +18,9 @@ Text Editor app that you can install onto your own local machine.
 ## Built With
 
 Manifest. Webpack. IndexDB.
+
+## Installation
+
+## Usage
+
+## Future Updates
