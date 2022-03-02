@@ -10,3 +10,7 @@
     <li><a href="#future-updates">Future Updates</a></li>
   </ol>
 </details>
+
+## Description
+
+Text Editor app that you can install onto your own local machine.
